@@ -20,3 +20,8 @@ h3{
     size: 100px;
     color: rgb(77, 99, 240);
 }
+.img3{
+    position: absolute;
+    top: 148%;
+   left: 0px;
+}

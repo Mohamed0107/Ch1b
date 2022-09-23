@@ -12,12 +12,11 @@ img{
   top: 0%;
   right: 2px;
 }
-p{
-  position: absolute;
-  width: 600px;
-  height: 600px;
-  top: -17px;
-  left: 520px;
+h1{
+  position: relative;
+  top: -150px;
+  left: -90px;
+  text-emphasis-color: rgb(208, 50, 198);
 }
 
 .block {
