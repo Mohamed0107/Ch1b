@@ -81,9 +81,16 @@
 	opacity: 1;
   }
   .H1{
+	color: rgb(245, 37, 248);
     position: absolute;
     size: 100px;
     left: 50%;
     top: 40%;
-
+  }
+  p{
+	color: rgb(245, 37, 248);
+    position: relative;
+    size: 200px;
+    left: -40%;
+    top: 0%;
   }

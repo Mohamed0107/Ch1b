@@ -2,3 +2,21 @@ body{
     background-color: rgba(230, 180, 221, 0.582);
     background-size: 0;
 }
+.img2{
+    position: absolute;
+    top: 23,5%;
+    right: 111px;
+}
+h2{
+    position: relative;
+    top: -55px;
+    color: rgb(77, 99, 240);
+    right: -60%;
+}
+h1{
+    color: rgb(27, 41, 165);
+}
+h3{
+    size: 100px;
+    color: rgb(77, 99, 240);
+}
